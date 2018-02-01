@@ -3,6 +3,6 @@ Week 4 discussion
 
 clear
 echo "This is a test"
-ls
+ls -la
 echo "I need to upload this new line"
 
