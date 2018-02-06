@@ -1,4 +1,4 @@
-#!/bash/bin
+#!/bin/bash
 # Week 4 Lab
 
 # clear screen
