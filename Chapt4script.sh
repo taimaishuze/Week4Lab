@@ -15,7 +15,7 @@ cd /dev
 echo "Directory contents"
 ls -l
 
-# Change directory to /proc and 
+# Change directory to /proc and view partitions
 echo "Next, changing directory to /proc and take a look at the partitions"
 cd /proc && cat /proc/partition
 
